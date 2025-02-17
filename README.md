@@ -27,5 +27,6 @@ Perform basic arithmetic operations:
 
 ##Screenshot
 
+![Calculator Screenshot](Calculator-Screenshot.png)
 
 
